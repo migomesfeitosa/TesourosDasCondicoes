@@ -1,0 +1,21 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI;
+
+
+public class NewBehaviourScript : MonoBehaviour
+{
+    public Objects[] slots;
+    public Image[] slotImage;
+    public int[] slotAmount;
+    void Start()
+    {
+        
+    }
+
+    private void Update()
+    {
+        
+    }
+}

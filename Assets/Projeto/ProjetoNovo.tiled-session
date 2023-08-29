@@ -1,0 +1,88 @@
+{
+    "activeFile": "C:/Users/mishe/Saved Games/Tesouro das Condições/Assets/Projeto/MapaInicio.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "C:/Users/mishe/OneDrive/Área de Trabalho/Projeto/MapaInicio.tmx": {
+            "scale": 0.4598863636363636,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1054.6083518655796,
+                "y": 877.3906597479615
+            }
+        },
+        "C:/Users/mishe/OneDrive/Área de Trabalho/Projeto/mapaCompleto.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/mishe/OneDrive/Área de Trabalho/Tiled/MapaInicio.tmx": {
+            "scale": 0.4598863636363636,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1054.6083518655796,
+                "y": 877.3906597479615
+            }
+        },
+        "C:/Users/mishe/Saved Games/Tesouro das Condições/Assets/Projeto/MapaInicio.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1570,
+                "y": 506
+            }
+        },
+        "C:/Users/mishe/Saved Games/Tesouro das Condições/Assets/Projeto/mapaCompleto.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/mishe/Saved Games/Tesouro das Condições/Assets/Tiled/MapaInicio.tmx": {
+            "scale": 0.1704782196969697,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1055.853353700875,
+                "y": 882.8107207332318
+            }
+        },
+        "C:/Users/mishe/Saved Games/Tesouro das Condições/Assets/Tiled/mapaCompleto.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/mishe/Saved Games/jogo/Assets/Projeto/MapaInicio.tmx": {
+            "scale": 0.5161989795918367,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 961.8383988139364,
+                "y": 785.5497899678776
+            }
+        },
+        "C:/Users/mishe/Saved Games/jogo/Assets/Projeto/mapaCompleto.tsx": {
+            "scaleInDock": 1
+        },
+        "MapaInicio.tmx": {
+            "scale": 0.125,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": -152,
+                "y": 844
+            }
+        },
+        "mapaCompleto.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/mishe/Saved Games/Tesouro das Condições/Assets/Projeto",
+    "last.externalTilesetPath": "G:/Meu Drive/Área de Tabalho/Projeto",
+    "map.lastUsedExportFilter": "Todos os Ficheiros (*)",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "C:/Users/mishe/OneDrive/Área de Trabalho/Tiled/MapaInicio.tmx",
+        "C:/Users/mishe/Saved Games/Tesouro das Condições/Assets/Projeto/MapaInicio.tmx"
+    ],
+    "project": "",
+    "recentFiles": [
+        "C:/Users/mishe/OneDrive/Área de Trabalho/Tiled/MapaInicio.tmx",
+        "C:/Users/mishe/Saved Games/Tesouro das Condições/Assets/Projeto/MapaInicio.tmx",
+        "C:/Users/mishe/OneDrive/Área de Trabalho/Projeto/MapaInicio.tmx",
+        "MapaInicio.tmx",
+        "C:/Users/mishe/Saved Games/Tesouro das Condições/Assets/Tiled/MapaInicio.tmx",
+        "C:/Users/mishe/Saved Games/jogo/Assets/Projeto/MapaInicio.tmx"
+    ]
+}

@@ -1,0 +1,393 @@
+fileFormatVersion: 2
+guid: aacee33d5f3cbee44bb1d4b429cb8b5c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3238440237711987833
+    second: kisspng-coin-purse-bag-gold-coin-coin-purse-5a857a6a6b93f4.3974857315186970664407_0
+  - first:
+      213: 1799939417976722879
+    second: kisspng-coin-purse-bag-gold-coin-coin-purse-5a857a6a6b93f4.3974857315186970664407_1
+  - first:
+      213: 4998960570124773519
+    second: kisspng-coin-purse-bag-gold-coin-coin-purse-5a857a6a6b93f4.3974857315186970664407_2
+  - first:
+      213: -3015977078433107617
+    second: kisspng-coin-purse-bag-gold-coin-coin-purse-5a857a6a6b93f4.3974857315186970664407_3
+  - first:
+      213: 414836641325740089
+    second: kisspng-coin-purse-bag-gold-coin-coin-purse-5a857a6a6b93f4.3974857315186970664407_4
+  - first:
+      213: -6093569524929461936
+    second: kisspng-coin-purse-bag-gold-coin-coin-purse-5a857a6a6b93f4.3974857315186970664407_5
+  - first:
+      213: -3443600610805047870
+    second: kisspng-coin-purse-bag-gold-coin-coin-purse-5a857a6a6b93f4.3974857315186970664407_6
+  - first:
+      213: 4535017099155520118
+    second: kisspng-coin-purse-bag-gold-coin-coin-purse-5a857a6a6b93f4.3974857315186970664407_7
+  - first:
+      213: 8142412894863121383
+    second: kisspng-coin-purse-bag-gold-coin-coin-purse-5a857a6a6b93f4.3974857315186970664407_8
+  - first:
+      213: -7114156560655083206
+    second: kisspng-coin-purse-bag-gold-coin-coin-purse-5a857a6a6b93f4.3974857315186970664407_9
+  - first:
+      213: -2762001924053725275
+    second: kisspng-coin-purse-bag-gold-coin-coin-purse-5a857a6a6b93f4.3974857315186970664407_10
+  - first:
+      213: -3202005151120304156
+    second: kisspng-coin-purse-bag-gold-coin-coin-purse-5a857a6a6b93f4.3974857315186970664407_11
+  - first:
+      213: -3212049029114559095
+    second: kisspng-coin-purse-bag-gold-coin-coin-purse-5a857a6a6b93f4.3974857315186970664407_12
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-coin-purse-bag-gold-coin-coin-purse-5a857a6a6b93f4.3974857315186970664407_0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 227
+        width: 935
+        height: 675
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974972bfc3041fc20800000000000000
+      internalID: 3238440237711987833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-coin-purse-bag-gold-coin-coin-purse-5a857a6a6b93f4.3974857315186970664407_1
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 890
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5d9b93d5baaf810800000000000000
+      internalID: 1799939417976722879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-coin-purse-bag-gold-coin-coin-purse-5a857a6a6b93f4.3974857315186970664407_2
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 704
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88a8742720ef5540800000000000000
+      internalID: 4998960570124773519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-coin-purse-bag-gold-coin-coin-purse-5a857a6a6b93f4.3974857315186970664407_3
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 701
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51364593d81526d0800000000000000
+      internalID: -3015977078433107617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-coin-purse-bag-gold-coin-coin-purse-5a857a6a6b93f4.3974857315186970664407_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 500
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0510f6c5dca4f6ba0800000000000000
+      internalID: -6093569524929461936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-coin-purse-bag-gold-coin-coin-purse-5a857a6a6b93f4.3974857315186970664407_6
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 495
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd95ac4d7fd530d0800000000000000
+      internalID: -3443600610805047870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-coin-purse-bag-gold-coin-coin-purse-5a857a6a6b93f4.3974857315186970664407_8
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 488
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb50e43369aff070800000000000000
+      internalID: 8142412894863121383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-coin-purse-bag-gold-coin-coin-purse-5a857a6a6b93f4.3974857315186970664407_9
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 385
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3993adec40754d90800000000000000
+      internalID: -7114156560655083206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-coin-purse-bag-gold-coin-coin-purse-5a857a6a6b93f4.3974857315186970664407_10
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 319
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af05df32e56ba9d0800000000000000
+      internalID: -2762001924053725275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-coin-purse-bag-gold-coin-coin-purse-5a857a6a6b93f4.3974857315186970664407_11
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 259
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7d08ea7413093d0800000000000000
+      internalID: -3202005151120304156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-coin-purse-bag-gold-coin-coin-purse-5a857a6a6b93f4.3974857315186970664407_12
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 263
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9850d7a1d628c63d0800000000000000
+      internalID: -3212049029114559095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1de1bf9b5ee129b4d86a1d8da9e7e924
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kisspng-coin-purse-bag-gold-coin-coin-purse-5a857a6a6b93f4.3974857315186970664407_0: 3238440237711987833
+      kisspng-coin-purse-bag-gold-coin-coin-purse-5a857a6a6b93f4.3974857315186970664407_1: 1799939417976722879
+      kisspng-coin-purse-bag-gold-coin-coin-purse-5a857a6a6b93f4.3974857315186970664407_10: -2762001924053725275
+      kisspng-coin-purse-bag-gold-coin-coin-purse-5a857a6a6b93f4.3974857315186970664407_11: -3202005151120304156
+      kisspng-coin-purse-bag-gold-coin-coin-purse-5a857a6a6b93f4.3974857315186970664407_12: -3212049029114559095
+      kisspng-coin-purse-bag-gold-coin-coin-purse-5a857a6a6b93f4.3974857315186970664407_2: 4998960570124773519
+      kisspng-coin-purse-bag-gold-coin-coin-purse-5a857a6a6b93f4.3974857315186970664407_3: -3015977078433107617
+      kisspng-coin-purse-bag-gold-coin-coin-purse-5a857a6a6b93f4.3974857315186970664407_5: -6093569524929461936
+      kisspng-coin-purse-bag-gold-coin-coin-purse-5a857a6a6b93f4.3974857315186970664407_6: -3443600610805047870
+      kisspng-coin-purse-bag-gold-coin-coin-purse-5a857a6a6b93f4.3974857315186970664407_8: 8142412894863121383
+      kisspng-coin-purse-bag-gold-coin-coin-purse-5a857a6a6b93f4.3974857315186970664407_9: -7114156560655083206
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

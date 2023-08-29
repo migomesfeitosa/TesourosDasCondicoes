@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - bau
+  - Teleport
+  - voltar
+  - chave
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: chao
+    uniqueID: 3168137101
+    locked: 0
+  - name: grama
+    uniqueID: 2410165965
+    locked: 0
+  - name: pedras
+    uniqueID: 1433148267
+    locked: 0
+  - name: colisao
+    uniqueID: 3362408263
+    locked: 0
+  - name: topo
+    uniqueID: 822618929
+    locked: 0
+  - name: collider
+    uniqueID: 641014021
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
