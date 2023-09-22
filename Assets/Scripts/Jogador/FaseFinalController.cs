@@ -87,5 +87,8 @@ public class FaseFinalController : MonoBehaviour
         animator.SetBool("bauAbre", bauAbre);  
     }
 
-    
+    public void LimparCampos()
+    {
+        itemList.Clear();
+    }
 }

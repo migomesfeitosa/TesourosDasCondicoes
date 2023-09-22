@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
@@ -12,7 +13,10 @@ public class PlayerController : MonoBehaviour
     public float speed =4.5f;
     bool isWalking = false;
     bool teste = false;
-   
+
+    public Text contTextFaseInicial;
+    public int contIntFaseInicial = 4;
+
     public int chaves = 0;
    
    [Header("Interact")]
@@ -64,7 +68,17 @@ public class PlayerController : MonoBehaviour
         
     }
 
- 
+    public void ContarChaves()
+    {
+        contIntFaseInicial -= 1;
+    }
+
+    public void AtualizaFaseInicial()
+    {
+        contTextFaseInicial.text = contIntFaseInicial.ToString();
+    }
+
+
     private void OnTriggerEnter2D(Collider2D collider)
     {
         if(collider.tag == "Teleport")
@@ -82,7 +96,9 @@ public class PlayerController : MonoBehaviour
         if (collider.gameObject.tag == "chave")
         {
            Destroy(collider.gameObject);
-           chaves++;
+            chaves++;
+            ContarChaves();
+            AtualizaFaseInicial();
         }
 
         if (collider.gameObject.tag == "voltar")
